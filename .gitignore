@@ -1,0 +1,4 @@
+venv/*
+.idea/*
+duty-bot.iml
+duty-bot.zip
